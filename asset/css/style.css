@@ -7,7 +7,8 @@
 
 body
 {
-    background-color: #686de0;
+    background-color: #82adb6;
+    background-image: linear-gradient(to bottom, #acccd3 0%, #4a7985 50%, #1d2f4e 50%, #5290f9 100%);
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
